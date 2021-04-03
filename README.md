@@ -8,7 +8,7 @@ To run - Activate the conda environment to be used for the project.
 
 1. Download the dataset from https://www.kaggle.com/c/aptos2019-blindness-detection/data and extract into the working directory.
 
-2. pip install requirements.txt
+2. pip install -r requirements.txt
 
 3. python create_split.py
 
