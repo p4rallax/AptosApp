@@ -16,6 +16,8 @@ To run - Activate the conda environment to be used for the project.
 
 5. python train.py ( Training takes about 13 minutes per epoch on a Colab instance with a P100 GPU)
 
+Logs for the training run can be found here- https://wandb.ai/satwik/aptos?workspace=user-satwik
+
 Model weights after training will be saved in 'efficientnet_baseline.pth' file in the working directory.
 To run the web ap using streamlit - 
 
