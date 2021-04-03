@@ -1,0 +1,16 @@
+# backend/requirements.txt
+
+fastapi
+numpy
+opencv-python
+pillow
+python-multipart
+uvicorn
+torch
+torchvision
+efficientnet-pytorch
+PIL
+cv2
+sklearn
+pandas
+numpy
