@@ -1,5 +1,6 @@
 # AptosApp
 An end to end flow from training to locally exposing API POST call for a Deep Learning Model , which predicts Diabetic Retinopathy on Retina images.
+![Screenshot from 2021-04-03 14-23-55](https://user-images.githubusercontent.com/20887060/118993053-d12a8f80-b9a2-11eb-98f9-e32a8a3e9503.png)
 
 
 
